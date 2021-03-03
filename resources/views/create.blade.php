@@ -36,7 +36,7 @@
                     <div class="form-group row">
                         <label for="prodi" class="col-sm-2 col-form-label">Prodi</label>
                         <div class="col-sm-10">
-                            <input type="text" name="nama_lengkap" id="nama_lengkap" class="form-control">
+                            <input type="text" name="prodi" id="prodi" class="form-control">
                         </div>
                     </div>
                     <div class="form-group">
