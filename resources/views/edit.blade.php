@@ -29,6 +29,7 @@
                                 <option value="FIP" selected>FIP</option>
                                 <option value="FIS" selected>FIS</option>
                                 <option value="FIO" selected>FIO</option>
+                                <option value="FIO" selected>FBS</option>
                                 <option value="FPsi" selected>FPsi</option>
                             </select>
                         </div>
